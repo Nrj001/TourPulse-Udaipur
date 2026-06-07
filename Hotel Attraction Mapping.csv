@@ -1,0 +1,79 @@
+﻿Hotel ID,Attraction ID,Attraction Name,Distance (km)
+LUX-01,2,Lake Pichola,0.5
+LUX-01,1,City Palace,1.2
+LUX-02,2,Lake Pichola,0.1
+LUX-02,1,City Palace,0.8
+LUX-03,2,Lake Pichola,0.7
+LUX-03,7,Bagore Ki Haveli,1
+LUX-05,2,Lake Pichola,1
+LUX-05,1,City Palace,2
+LUX-06,4,Sajjangarh Palace (Monsoon Palace),4
+LUX-06,24,Ubeshwar Mahadev Temple,8
+LUX-07,4,Sajjangarh Palace (Monsoon Palace),3.5
+LUX-07,23,Bahubali Hills,5.5
+LUX-08,3,Fateh Sagar Lake,1
+LUX-08,11,Moti Magri,1.5
+LUX-09,3,Fateh Sagar Lake,0.8
+LUX-09,17,Maharana Pratap Memorial,1
+LUX-10,2,Lake Pichola,1
+LUX-10,1,City Palace,2
+LUX-11,10,Karni Mata Temple,1.5
+LUX-11,16,Doodh Talai Lake,1
+LUX-12,1,City Palace,0
+LUX-12,5,Jagdish Temple,0.2
+LUX-13,1,City Palace,0
+LUX-13,5,Jagdish Temple,0.2
+LUX-14,12,Badi Lake,1
+LUX-14,23,Bahubali Hills,2
+MID-01,8,Ahar Cenotaphs,3
+MID-01,15,Gulab Bagh,4
+MID-02,3,Fateh Sagar Lake,0.5
+MID-02,11,Moti Magri,1
+MID-03,15,Gulab Bagh,4
+MID-03,22,Under the Sun Aquarium,5
+MID-04,4,Sajjangarh Palace (Monsoon Palace),3
+MID-04,3,Fateh Sagar Lake,4
+MID-05,1,City Palace,0.8
+MID-05,7,Bagore Ki Haveli,0.3
+MID-06,5,Jagdish Temple,0.5
+MID-06,1,City Palace,0.7
+MID-07,7,Bagore Ki Haveli,0.5
+MID-07,2,Lake Pichola,0.6
+MID-08,22,Under the Sun Aquarium,4
+MID-08,3,Fateh Sagar Lake,4.5
+MID-09,11,Moti Magri,1.5
+MID-09,3,Fateh Sagar Lake,1
+MID-10,3,Fateh Sagar Lake,0.8
+MID-10,11,Moti Magri,1.2
+MID-11,7,Bagore Ki Haveli,0.4
+MID-11,5,Jagdish Temple,0.6
+MID-12,8,Ahar Cenotaphs,5
+MID-12,15,Gulab Bagh,6
+MID-13,15,Gulab Bagh,4
+MID-13,8,Ahar Cenotaphs,5
+BUD-01,8,Ahar Cenotaphs,3
+BUD-01,15,Gulab Bagh,5
+BUD-02,10,Karni Mata Temple,1
+BUD-02,16,Doodh Talai Lake,1.2
+BUD-03,15,Gulab Bagh,1.5
+BUD-03,13,Vintage Car Museum,2
+BUD-04,15,Gulab Bagh,1
+BUD-04,13,Vintage Car Museum,1.5
+BUD-05,1,City Palace,0.7
+BUD-05,5,Jagdish Temple,0.4
+BUD-06,15,Gulab Bagh,2
+BUD-06,13,Vintage Car Museum,2
+BUD-07,8,Ahar Cenotaphs,5
+BUD-07,21,Rajiv Gandhi Park,6
+BUD-08,7,Bagore Ki Haveli,0.2
+BUD-08,2,Lake Pichola,0.3
+BUD-09,7,Bagore Ki Haveli,0.5
+BUD-09,2,Lake Pichola,0.8
+BUD-10,16,Doodh Talai Lake,0.8
+BUD-10,10,Karni Mata Temple,1.2
+BUD-11,7,Bagore Ki Haveli,0.3
+BUD-11,2,Lake Pichola,0.4
+BUD-12,7,Bagore Ki Haveli,0.5
+BUD-12,2,Lake Pichola,0.7
+BUD-13,2,Lake Pichola,0.4
+BUD-13,7,Bagore Ki Haveli,0.8

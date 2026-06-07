@@ -1,0 +1,41 @@
+﻿Hotel ID,Hotel Name,Area,Segment,Property Type, Category,Price Per Night,Rating,Review Count,Popularity Score
+LUX-01,"The Oberoi Udaivilas, Udaipur",Mallatalai (Lake Pichola),Luxury,Resort & Spa,5,30900,4.8,7416,35.5968
+LUX-02,Taj Lake Palace,Lake Pichola,Luxury,Heritage Stay,5,35500,4.8,9840,47.232
+LUX-03,The Leela Palace Udaipur,Lake Pichola,Luxury,Resort & Spa,5,28000,4.7,6150,28.905
+LUX-04,Raffles Udaipur,Udai Sagar Lake,Luxury,Resort & Spa,5,32000,4.8,1220,5.856
+LUX-05,"Aurika, Udaipur - Lemon Tree Hotels",Mallatalai,Luxury,Palace Hotel,5,12500,4.6,5430,24.978
+LUX-06,Taj Aravali Resort & Spa,Kodiyat,Luxury,Resort & Spa,5,14000,4.5,8910,40.095
+LUX-07,The Ananta Udaipur,Kodiyat Road,Luxury,Resort & Spa,5,11056,4.4,16413,72.2172
+LUX-08,"Radisson Blu Palace Resort & Spa, Udaipur",Mallatalai,Luxury,Resort & Spa,5,9853,4.4,17218,75.7592
+LUX-09,The LaLiT Laxmi Vilas Palace Udaipur,Zinc Park (Fateh Sagar),Luxury,Heritage Stay,5,6126,4.4,3952,17.3888
+LUX-10,Trident Udaipur,Mallatalai,Luxury,Resort & Spa,5,8500,4.6,6750,31.05
+LUX-11,Chunda Palace,Haridas Ji Ki Magri,Luxury,Heritage Stay,4,7200,4.4,3120,13.728
+LUX-12,Fateh Prakash Palace,City Palace Complex,Luxury,Heritage Stay,5,18500,4.6,2140,9.844
+LUX-13,Shiv Niwas Palace,City Palace Complex,Luxury,Heritage Stay,5,15000,4.5,2890,13.005
+LUX-14,Lakshman Niwas A Luxury Resort,Badi Lake Road,Luxury,Resort & Spa,4,6500,4.5,1050,4.725
+MID-01,Howard Johnson by Wyndham Udaipur Roop Nagar,Roop Nagar,Mid-Range,Business Hotel,4,3516,4.4,1479,6.5076
+MID-02,Hotel Lakend,Fatehsagar Lake,Mid-Range,Resort & Spa,4,5800,4.5,7850,35.325
+MID-03,The Fern Residency Udaipur,Hiran Magri,Mid-Range,Business Hotel,3,3200,4.2,4120,17.304
+MID-04,Ramada Udaipur Resort & Spa,Rampura,Mid-Range,Resort & Spa,4,5500,4.4,9210,40.524
+MID-05,Amet Haveli,Outside Chandpole,Mid-Range,Heritage Stay,3,5200,4.5,2340,10.53
+MID-06,Hotel Mewar Castle,Old City,Mid-Range,Heritage Stay,3,2800,4.3,1120,4.816
+MID-07,Udai Kothi,Chandpole,Mid-Range,Boutique Hotel,3,4500,4.2,2980,12.516
+MID-08,jüSTa Rajputana Resort & Spa,Hiran Magri,Mid-Range,Resort & Spa,4,4100,4.2,3450,14.49
+MID-09,Hotel Hilltop Palace,Ambavgarh,Mid-Range,Standard Hotel,3,3600,4.1,4670,19.147
+MID-10,Swaroop Vilas - A Heritage Hotel,Swaroop Sagar,Mid-Range,Heritage Stay,3,3400,4.3,3110,13.373
+MID-11,Hotel Karahi Haveli,Chandpole,Mid-Range,Boutique Hotel,3,2500,4.4,1430,6.292
+MID-12,Hotel Valley View,Pratapnagar,Mid-Range,Business Hotel,3,2900,4,4920,19.68
+MID-13,The Kehloor,Sanjay Nagar,Mid-Range,Boutique Hotel,3,3100,4.5,1150,5.175
+BUD-01,THE MANGAL VIEW RESIDENCY,Shanti Nagar,Budget,Business Hotel,3,1482,4.7,2584,12.1448
+BUD-02,Hotel Amar Kothi Udaipur,Haridas Ji Ki Magri,Budget,Boutique Hotel,3,1680,4.5,1333,5.9985
+BUD-03,Hotel Boheda Palace by Amazing Hospitality,Kalaji Goraji,Budget,Heritage Stay,3,1303,4.3,723,3.1089
+BUD-04,Hotel Cosmos Westend City Centre,City Centre,Budget,Standard Hotel,3,1239,4.7,364,1.7108
+BUD-05,Janak Vilas - A Heritage Boutique Hotel,Old City,Budget,Heritage Stay,3,1200,4.4,936,4.1184
+BUD-06,Hotel Royal Palm - A Budget Hotel in Udaipur,Surajpole,Budget,Standard Hotel,3,1124,4,1004,4.016
+BUD-07,"The Park Classic Hotel, Udaipur",Zone Sector 11,Budget,Standard Hotel,3,879,4.3,1457,6.2651
+BUD-08,Dreamyard Udaipur,Ghat Ghar (Old City),Budget,Hostel,1,678,4.8,1159,5.5632
+BUD-09,Zostel Udaipur,Chandpole,Budget,Hostel,1,750,4.6,2840,13.064
+BUD-10,Moustache Udaipur,Gadiya Devra,Budget,Hostel,1,650,4.4,1920,8.448
+BUD-11,Hotel Mewar Haveli,Lal Ghat,Budget,Heritage Stay,3,1800,4.1,1210,4.961
+BUD-12,Hotel Udai Niwas,Gangaur Ghat Road,Budget,Boutique Hotel,2,1500,4.2,980,4.116
+BUD-13,goStops Udaipur,Pichola,Budget,Hostel,1,599,4.5,1450,6.525
