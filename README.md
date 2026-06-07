@@ -148,18 +148,6 @@ Helps tourists plan smarter trips.
 
 ---
 
-## 📸 Dashboard Preview
-
-### Tourism Overview
-_Add Screenshot Here_
-
-### Hotel Intelligence
-_Add Screenshot Here_
-
-### Tourist Planner
-_Add Screenshot Here_
-
----
 
 ## 🚀 Future Enhancements
 
